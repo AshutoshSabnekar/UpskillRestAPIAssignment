@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="7" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24684" started-at="2021-06-22T05:33:08Z" finished-at="2021-06-22T05:33:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24684" started-at="2021-06-22T05:33:08Z" finished-at="2021-06-22T05:33:33Z">
+      <class name="RestAPISample.JSONBodyExample">
+        <test-method status="PASS" signature="AssingmentTestCase1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:RestAPISample.JSONBodyExample@3abbfa04]" name="AssingmentTestCase1" duration-ms="7836" started-at="2021-06-22T05:33:09Z" data-provider="fetchDataFromExcel" finished-at="2021-06-22T05:33:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Status]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CategoryID]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[CategoryName]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[PhotoURLs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssingmentTestCase1 -->
+        <test-method status="PASS" signature="AssingmentTestCase1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:RestAPISample.JSONBodyExample@3abbfa04]" name="AssingmentTestCase1" duration-ms="3099" started-at="2021-06-22T05:33:17Z" data-provider="fetchDataFromExcel" finished-at="2021-06-22T05:33:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ashu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vaccinated]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sabnekar]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[CovidSheild]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssingmentTestCase1 -->
+        <test-method status="PASS" signature="AssingmentTestCase1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:RestAPISample.JSONBodyExample@3abbfa04]" name="AssingmentTestCase1" duration-ms="3082" started-at="2021-06-22T05:33:20Z" data-provider="fetchDataFromExcel" finished-at="2021-06-22T05:33:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Arushi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Not Vaccinated]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sabnekar]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssingmentTestCase1 -->
+        <test-method status="PASS" signature="AssingmentTestCase1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:RestAPISample.JSONBodyExample@3abbfa04]" name="AssingmentTestCase1" duration-ms="3099" started-at="2021-06-22T05:33:23Z" data-provider="fetchDataFromExcel" finished-at="2021-06-22T05:33:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sonia]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vaccinated]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sabnekar]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[CovidSheild]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssingmentTestCase1 -->
+        <test-method status="PASS" signature="AssingmentTestCase1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:RestAPISample.JSONBodyExample@3abbfa04]" name="AssingmentTestCase1" duration-ms="3049" started-at="2021-06-22T05:33:26Z" data-provider="fetchDataFromExcel" finished-at="2021-06-22T05:33:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Atul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vaccinated]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sabnekar]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[CovidSheild]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssingmentTestCase1 -->
+        <test-method status="PASS" signature="AssingmentTestCase1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:RestAPISample.JSONBodyExample@3abbfa04]" name="AssingmentTestCase1" duration-ms="3075" started-at="2021-06-22T05:33:29Z" data-provider="fetchDataFromExcel" finished-at="2021-06-22T05:33:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Amar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vaccinated]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sabnekar]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[CovidSheild]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssingmentTestCase1 -->
+      </class> <!-- RestAPISample.JSONBodyExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
